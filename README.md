@@ -10,7 +10,6 @@
 ## 🔧 Skills
 
 - 🐍 **Python**
-- 🦀 **Rust**
 - 🖥️ **Linux** & **Windows**
 - 📊 Data Exploration & Analysis
 - 🧠 Deep Learning (PyTorch & TensorFlow)
@@ -32,7 +31,7 @@ A CNN + LSTM pipeline to classify **502 Arabic Sign Language** gestures using th
 
 - Completed the **DeepTorch Level 1** mentorship program, applying AI theory to practical projects.
 - Continuously exploring new models and datasets to push the boundaries of NLP.
-- Self-taught learner with a deep passion for coding and research.
+- Self-taught learner with a deep passion for coding, research and reading books.
 
 ---
 
@@ -51,6 +50,6 @@ A CNN + LSTM pipeline to classify **502 Arabic Sign Language** gestures using th
 
 ---
 
-> “The best way to learn is by doing.”
+> “The best way to learn is by doing.”   
 > – Ali Fadel
 
