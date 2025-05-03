@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently maintaining **2 public repositories** on GitHub.
 - 🌱 I’m passionate about **Natural Language Processing** and **Deep Learning** in Python.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ali-fadel-4407b0245/) | ✉️ alifadelammar@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ali-fadel-4407b0245/) | ✉️ ali.developer.ai21@gmail.com
 
 ---
 
