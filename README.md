@@ -1,9 +1,9 @@
 
 # 👋 Hi, I’m Ali Fadel
 
-- 🔭 I’m currently maintaining **2 public repositories** on GitHub.
+- 🔭 I’m currently maintaining **3 public repositories** on GitHub.
 - 🌱 I’m passionate about **Natural Language Processing** and **Deep Learning** in Python.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ali-fadel-4407b0245/) | ✉️ ali.developer.ai21@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ali-fadel-4407b0245/) | ✉️ <ali.developer.ai21@gmail.com>
 
 ---
 
@@ -20,10 +20,16 @@
 ## 📂 Key Projects
 
 ### 1. **NLP‑Recipes‑Book**
+
 A hands-on implementation of recipes from _Natural Language Processing Recipes_ by Akshay Kulkarni & Adarsha Shivananda.
 
 ### 2. **ArSL Recognition**
+
 A CNN + LSTM pipeline to classify **502 Arabic Sign Language** gestures using the KArSL dataset.
+
+### 3. **Feel Track**
+
+A real-time emotion recognition pipeline using MediaPipe for landmark extraction and a hybrid CNN–BiLSTM–Attention model built with TensorFlow/Keras.
 
 ---
 
@@ -50,6 +56,5 @@ A CNN + LSTM pipeline to classify **502 Arabic Sign Language** gestures using th
 
 ---
 
-> “The best way to learn is by doing.”   
+> “The best way to learn is by doing.”
 > – Ali Fadel
-
